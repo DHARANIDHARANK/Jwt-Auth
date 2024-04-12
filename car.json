@@ -1,0 +1,25 @@
+[
+
+    {
+        "make":"ford",
+        "user_id":1
+    },
+    {
+        "make": "KIA",
+        "user_id":1
+    },
+    {
+        "make":"lexus",
+        "user_id":2
+    },
+    {
+        "make":"bmw",
+        "user_id":1
+    }
+    ,{
+        "make":"nissan",
+        "user_id":2
+    }
+
+    
+]
